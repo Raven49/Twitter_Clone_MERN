@@ -3,12 +3,12 @@
 ### Requirements
 
 - User Management
-    - [ ] Handle user registration and authentication.
+    - [ ] Authentication and user registration are handled.
     - [ ] Manage user profiles, including usernames, email addresses, and profile information.
 
 - Tweet Management
-    - [ ] Enable users to create, post, and delete tweets.
     - [ ] Handle storage and retrieval of tweets.
+    - [ ] Enable users to create, post, and delete tweets.
     - [ ] Pagination on tweets
     - [ ] Implement features like hashtags, and media attachments.
 
@@ -25,7 +25,7 @@
     - [ ] Retweet
 
 ## project setup
-- Clone the project on your local
+- Clone the project on your local machine
 - execute `npm install` on the same pathof root directory of the downloaded project
 - create a `.env` file in your root directory and create the following environment variables
     - `PORT=3000`
